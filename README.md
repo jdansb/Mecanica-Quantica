@@ -18,6 +18,7 @@
 - *Measurement*
 - *Quantum Information and Computation*
 
+
   Talvez algum dia:
 - *The Two Slit Experiment (Quantum Physics Notes, Cresser)*
 - *Particle Spn and the Stern-Gerlach Experiment*
