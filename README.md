@@ -1,8 +1,8 @@
 # Mecânica-Quântica
 
 - Introduction (Quantum Physics Notes, Cresser)
-- **The Wave Function (Introduction to Quantum Mechanics, Griffhits)**
-- *Time-Independent Schrodinger Equation*
+- The Wave Function (Introduction to Quantum Mechanics, Griffhits)
+- **Time-Independent Schrodinger Equation**
 - *Formalism*
 - *Quantum Mechanics in Three Dimensions*
 - *Identical Particles*
