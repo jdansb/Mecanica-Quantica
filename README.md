@@ -22,3 +22,4 @@
   Talvez algum dia:
 - *The Two Slit Experiment (Quantum Physics Notes, Cresser)*
 - *Particle Spn and the Stern-Gerlach Experiment*
+- *A discussão sobre a equação de Schroedinger no livro do Halidday*
